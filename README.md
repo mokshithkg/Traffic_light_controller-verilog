@@ -57,8 +57,11 @@ The design consists of:
 
 ### RTL Source
 
-Location: rtl\traffic_light_controller.v
+[View RTL Code](traffic_light_controller.v)
 
+### Testbench
+
+[View Testbench](traffic_light_tb.v)
 ---
 
 ## Verification
