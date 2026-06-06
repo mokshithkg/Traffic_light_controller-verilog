@@ -38,11 +38,11 @@ This controller is implemented using a Moore FSM.
 
 ### State Diagram
 
-location: screenshot\fsm_diagram.jpeg
+![FSM Diagram](fsm_diagram.jpeg)
 
 ### State Transition Table
 
-location: screenshot\state_transition.jpeg
+![State Transition Table](state_transition.jpeg)
 
 ---
 
@@ -67,6 +67,8 @@ Behavioral simulation was performed using Vivado Simulator.
 
 ### Simulation Waveform
 
+![Waveform](waveform.png)
+
 Verified functionality:
 
 * Correct FSM transitions
@@ -82,6 +84,8 @@ RTL was synthesized successfully in Vivado.
 
 ### Synthesized Schematic
 
+![Schematic](schematic.png)
+
 The synthesized hardware contains:
 
 * FDRE Flip-Flops
@@ -94,6 +98,8 @@ The synthesized hardware contains:
 ## Resource Utilization
 
 ### Utilization Report
+
+![Utilization](utilization.png)
 
 Resource Summary:
 
