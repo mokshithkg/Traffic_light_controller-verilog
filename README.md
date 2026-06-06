@@ -136,29 +136,8 @@ Resource Summary:
 
 ---
 
-## Project Structure
 
-```text
-traffic-light-controller-verilog/
-│
-├── rtl/
-│   └── traffic_light_controller.v
-│
-├── tb/
-│   └── traffic_light_tb.v
-│
-├── screenshots/
-│   ├── waveform.png
-│   ├── schematic.png
-│   ├── utilization.png
-│   ├── fsm_diagram.jpeg
-│   └── state_transition.jpeg
-│
-└── README.md
 ```
-
----
-
 ## Author
 
 Mokshith K G
