@@ -142,8 +142,8 @@ traffic-light-controller-verilog/
 │   ├── waveform.png
 │   ├── schematic.png
 │   ├── utilization.png
-│   ├── fsm_diagram.png
-│   └── state_transition.png
+│   ├── fsm_diagram.jpeg
+│   └── state_transition.jpeg
 │
 └── README.md
 ```
